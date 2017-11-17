@@ -1,0 +1,1 @@
+CARAVANAQR es un proyecto generado en el marco del Hackton Agrodatos 2015 en la ciudad de Córdoba, Argentina. Para uso del mismo por favor contactar al auto por la siguiente vía: salinassomoza.natalia@gmail.com Muchas gracias.
